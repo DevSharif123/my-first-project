@@ -1,1 +1,3 @@
 # my-first-project
+Hi, I am learning GitHub.
+This is my first repository.
